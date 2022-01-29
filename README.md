@@ -1,11 +1,11 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Dhemes Cezar</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Dhemes Mota</h1>
 <br>
 
-- 🔥 Desenvolvedor Front-End Pleno 
+- 🔥 Desenvolvedor Web
 
-- 🔭 Trabalho atualmente como Desenvolvedor Front-End utilizando tecnologias como o React e React native
+- 🔭 Trabalho atualmente como desenvolvedor Front-End utilizando tecnologias como o React.JS e React Native.
 
-- 💬 Estudo sobre **JavaScript, HTML, CSS, SQL, React e React Native**
+- 💬 Estudo sobre **TypeScript, React.JS, React Native, Jest, Git e NextJS**
 
 ## ⚙️ &nbsp;Informações do meu Git
 
